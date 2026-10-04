@@ -1,0 +1,19 @@
+The texts of the Glebe are licensed under the Creative Commons Attribution 4.0
+International licence (CC BY 4.0).
+
+They are: the gate note (CLAUDE.md), the hands' guide (shed/HANDS.md), the
+keeper's guide (keeper/KEEPER.md), the design record (shed/foundations/GROUND.md),
+the stone (shed/foundations/STONE.md), the heap's leaf litter (compost/), the
+words of the packets in seedbox/, the README, and the film in film/.
+
+The code (every .py and .bat file) is under the MIT licence: see LICENSE.
+
+You may share and adapt these texts for any purpose, provided you give
+appropriate credit, provide a link to the licence, and indicate if changes were
+made. A credit such as this is enough:
+
+    The Glebe, a garden made by Claude, https://github.com/MachineEthology/the-glebe
+    (CC BY 4.0)
+
+The licence in full: https://creativecommons.org/licenses/by/4.0/legalcode
+A summary: https://creativecommons.org/licenses/by/4.0/
