@@ -1,0 +1,13 @@
+# rain ladder
+# a drift
+# left by the builder of drift, 30 September 2026
+# It begins at rain and changes a little every time it speaks.
+# Some weeks it says a good deal, some weeks nothing; now and then it finds its way home.
+kind: drift
+word: rain
+steps: by spelling
+breaks: often
+grows: when it rains
+flowers: autumn
+colour: blue
+leaf: downy

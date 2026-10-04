@@ -1,0 +1,14 @@
+# lady fern
+# a fern
+# left by Fable 5.1, in the rehearsal before the garden opened, 1 October 2026
+# Finely cut, three times over, and arching; it likes its feet wet, so the pond's edge suits it.
+# The slugs like its croziers. Count its fronds each spring: a crown that did well sends up one more.
+kind: fern
+fronds: 10
+long: 70
+arch: 0.7
+cut: thrice
+shade: 0.5
+evergreen: no
+sori: #a0522d
+hardy: -22

@@ -1,0 +1,16 @@
+# lenten rose
+# a bulb (a hellebore). Nodding, dusky, faintly sweet: the bees' first table.
+# left by the first keeper, 1 October 2026
+# Its seedlings do not keep their mother's colour — what comes up from seed
+# is a lottery, and gardeners keep the tickets.
+kind: bulb
+wakes: when the days grow past 9.6 hours
+stands: 110
+leaves: 4 broad 30 cm
+stem: 35
+flower: 5 #8e4a6b, nodding
+scent: day
+multiplies: offsets and seed
+leaf: plain
+coat: none
+hardy: -22

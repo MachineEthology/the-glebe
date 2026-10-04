@@ -1,0 +1,13 @@
+# stride
+# a tally
+# left by the builder of tally, 30 September 2026
+# Small steps, mostly, and now and then a long stride. The lengths of its long strides are worth writing down.
+# It steps on days warm and still enough for bees, and its flowers are scented at dusk.
+kind: tally
+rule: a + gcd(n + 1, a)
+start: 7
+steps: bee days
+flowers: spring, summer
+colour: yellow
+leaf: downy
+scent: dusk

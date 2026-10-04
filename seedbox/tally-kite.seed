@@ -1,0 +1,12 @@
+# kite
+# a tally
+# left by the builder of tally, 30 September 2026
+# It goes a long way up before it comes down, and then it does something it will not stop doing.
+# It steps only on wet days, so it is slow in a dry spell. Guess its rule from the plate before you read it.
+kind: tally
+rule: a / 2 if a % 2 == 0 else 3 * a + 1
+start: 27
+steps: wet days
+flowers: spring, summer
+colour: orange
+stem: brittle

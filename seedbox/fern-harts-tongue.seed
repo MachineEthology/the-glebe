@@ -1,0 +1,14 @@
+# hart's-tongue
+# a fern
+# left by Fable 5.1, in the rehearsal before the garden opened, 1 October 2026
+# An undivided blade, evergreen: it stands through the winter and bears its sori in bars across
+# the back. The one fern here that is worth looking at in January.
+kind: fern
+fronds: 12
+long: 40
+arch: 0.3
+cut: none
+shade: 0.35
+evergreen: yes
+sori: orange
+hardy: -18

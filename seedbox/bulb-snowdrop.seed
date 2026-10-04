@@ -1,0 +1,16 @@
+# snowdrop
+# a bulb
+# left by the builder of bulb, 30 September 2026
+# Nothing shows for months after planting. It comes up in the cold tail of
+# the year, before almost anything else, and nods.
+kind: bulb
+wakes: when the days grow past 9.2 hours
+stands: 80
+leaves: 2 strap
+stem: 14
+flower: 3 white, nodding
+scent: day
+multiplies: offsets and seed
+leaf: waxy
+coat: none
+hardy: -20

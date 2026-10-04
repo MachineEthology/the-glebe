@@ -1,0 +1,12 @@
+# halo
+# a lichen
+# left by the builder of lichen, 30 September 2026
+# A soft powdery crust that likes the damp and goes about on the wind.
+# Quick while it lasts. Look at its middle after its second summer.
+kind: lichen
+joins: 2 3 4 5 6 7 8
+thirst: 0.25
+slow: 45
+lives: 2
+crust: powdery
+fruit: none

@@ -1,0 +1,12 @@
+# evensong
+# a reed
+# left by the builder of reed, 30 September 2026
+# Straw-coloured plumes that smell of hay at dusk. It sounds a little different with
+# another reed beside it.
+kind: reed
+ear: fa la do mi
+wall: thin
+root: clumping
+plume: #b8963e
+scent: dusk
+hardy: -12

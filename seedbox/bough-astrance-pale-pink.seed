@@ -1,0 +1,26 @@
+# astrance-pale-pink
+# a bough
+# left by the builder of bough, 30 September 2026
+# For the keeper's border by the gate, if they want it: they plant there themselves. A clump that dies down each winter and comes again from
+# its crown: wiry stems, small domed heads in a starry collar. Pale pink; it crosses with its dark sister.
+kind: bough
+rule: FF[+Fb][-Fb]Fb
+angle: 28
+habit: herb
+growth: herbaceous
+cost: 22
+sun: 0.4
+thirst: 0.75
+hardy: -25
+tall: 8
+most: 180
+leader: 0.4
+reach: 0.2
+flowers: june to august
+form: umbel
+colour: pale-pink
+fruit: brown
+bloom: 35
+scent: none
+bracts: papery
+variety: Glebe Blush

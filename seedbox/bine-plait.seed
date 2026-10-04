@@ -1,0 +1,12 @@
+# plait
+# a bine
+# left by the builder of bine, 30 September 2026
+# Three stems from one crown, flowering pale pink, white and dark red. It climbs for a summer
+# or two, then bows over to the ground. Note where each colour ends up, and where its children begin.
+kind: bine
+stems: pale-pink white dark-red
+habit: 1 -2
+reach: 16
+flowers: summer
+coat: smooth
+hardy: -15

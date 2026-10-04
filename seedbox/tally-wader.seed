@@ -1,0 +1,12 @@
+# wader
+# a tally
+# left by the builder of tally, 30 September 2026
+# A row of numbers that never quite settles. Watch where its arcs go, and guess its rule before you read the line below.
+# It grows on any day it has the sap for, and for a long time.
+kind: tally
+rule: a - n if a - n > 0 and not seen(a - n) else a + n
+start: 0
+steps: when it can
+flowers: summer, autumn
+colour: dark-red
+leaf: waxy

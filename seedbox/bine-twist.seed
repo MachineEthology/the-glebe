@@ -1,0 +1,12 @@
+# twist
+# a bine
+# left by the builder of bine, 30 September 2026
+# Two downy stems, orange and yellow, low and quick to bow over. It cannot quite make up its
+# mind, and a sheltered bed keeps what an open one loses.
+kind: bine
+stems: orange yellow
+habit: 1 1 -1
+reach: 12
+flowers: summer
+coat: downy
+hardy: -15

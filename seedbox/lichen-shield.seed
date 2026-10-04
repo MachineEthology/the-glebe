@@ -1,0 +1,12 @@
+# shield
+# a lichen
+# left by the builder of lichen, 30 September 2026
+# A hard, close crust with orange fruit. It creeps outward very slowly and keeps what it takes;
+# a thin scratch in it does not last.
+kind: lichen
+joins: 3 4 5 6 7 8
+thirst: 0.2
+slow: 35
+lives: 6
+crust: hard
+fruit: orange

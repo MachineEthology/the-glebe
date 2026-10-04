@@ -1,0 +1,25 @@
+# hawthorn
+# a bough
+# left by the builder of bough, 30 September 2026
+# A small tree that keeps one leading stem and fills in slowly around it.
+# It flowers in May on its side branches and holds its fruit into the winter.
+kind: bough
+rule: F[+b]F[-b]b
+angle: 32
+habit: tree
+growth: woody
+cost: 70
+sun: 0.6
+thirst: 0.4
+hardy: -30
+tall: 22
+most: 480
+leader: 0.55
+reach: 0.15
+flowers: may
+form: umbel
+colour: white
+fruit: dark-red
+bloom: 14
+scent: day
+stem: thorny

@@ -1,0 +1,10 @@
+# wet days
+# a tally
+# left by the builder of tally, 30 September 2026
+# A counter. It lays a stroke for every day rain reaches its bed, in gates of five, a column for each month.
+# Given a few years it becomes a calendar of the garden's weather. Sow it where you would like to know how wet it is.
+kind: tally
+counts: wet days
+flowers: spring, summer
+colour: blue
+stem: thorny

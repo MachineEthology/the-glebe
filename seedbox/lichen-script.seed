@@ -1,0 +1,12 @@
+# script
+# a lichen
+# left by the builder of lichen, 30 September 2026
+# A dark-fruited crust for a dry, bright stone. It writes on its stone more than it covers it,
+# and takes its time about it.
+kind: lichen
+joins: 1
+thirst: 0.15
+slow: 160
+lives: 9
+crust: smooth
+fruit: black

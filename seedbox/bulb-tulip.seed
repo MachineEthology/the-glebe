@@ -1,0 +1,16 @@
+# tulip
+# a bulb
+# left by the builder of bulb, 30 September 2026
+# It sleeps the winter through and comes up with the spring. Red, and it
+# likes its summers dry.
+kind: bulb
+wakes: when the soil has gathered 100 degrees of warmth
+stands: 65
+leaves: 3 broad
+stem: 32
+flower: 6 red
+scent: none
+multiplies: offsets
+leaf: plain
+coat: papery
+hardy: -14

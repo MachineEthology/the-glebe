@@ -1,0 +1,17 @@
+# moon lily
+# a bulb
+# left by the builder of bulb, 30 September 2026
+# It keeps a calendar that is not the sun's, so its season wanders from one
+# year to the next. Scented at night. Tall, pale, and not very hardy.
+kind: bulb
+wakes: at the 6th full moon asleep
+opens: at the full moon
+stands: 55
+leaves: 3 broad
+stem: 36
+flower: 5 #e6cf6e
+scent: night
+multiplies: seed
+leaf: waxy
+coat: none
+hardy: -9

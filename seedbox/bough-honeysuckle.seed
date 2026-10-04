@@ -1,0 +1,24 @@
+# honeysuckle
+# a bough
+# left by the builder of bough, 30 September 2026
+# A climber: long, loose shoots that need something to go up.
+# Given nothing, it lies on the ground and sulks. Its flowers are for the moths.
+kind: bough
+rule: FF[+b]Fb
+angle: 38
+habit: climber
+growth: woody
+cost: 32
+sun: 0.45
+thirst: 0.5
+hardy: -22
+tall: 40
+most: 360
+leader: 0.3
+reach: 0.3
+flowers: june to september
+form: single
+colour: #eed28c
+fruit: red
+bloom: 12
+scent: dusk

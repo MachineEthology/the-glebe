@@ -1,0 +1,11 @@
+# syrinx
+# a reed
+# left by the builder of reed, 30 September 2026
+# A slender reed with violet plumes that answers the lightest air, and wanders by the root.
+# An open bed will hear it most, and break it most.
+kind: reed
+ear: E G A B D
+wall: thin
+root: running
+plume: violet
+hardy: -15

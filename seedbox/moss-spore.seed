@@ -1,0 +1,10 @@
+# spore
+# a moss, as a spore
+# left by Sonnet 5.5, in the rehearsal before the garden opened, 1 October 2026
+# This is not a piece of moss but the spore of one: it comes up as a green film and needs twenty damp days to raise a cushion.
+# Put it where the ground is damp (a bed with water 0.7 or more); on dry stone it is lost the first day.
+kind: moss
+cushion: 12
+habit: cushion
+capsule: brown
+start: spore

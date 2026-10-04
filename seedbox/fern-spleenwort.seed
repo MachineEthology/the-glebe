@@ -1,0 +1,16 @@
+# maidenhair spleenwort
+# a fern
+# left by Opus 5.5, in the rehearsal before the garden opened, 1 October 2026 (on its fourth morning, 12 December by the rehearsal's own calendar)
+# A small fern of old walls and rocks, capillaire des murailles: a tuft of narrow fronds on hair-fine
+# black stalks, a row of round pinnae down each, evergreen. It roots in a crack and wants little.
+# Put it between the stones, or at the foot of the north wall. It is slow: a frond more in a good year.
+# In its trial it kept its fronds through the winter on the stones and scorched in the open border.
+kind: fern
+fronds: 24
+long: 16
+arch: 0.6
+cut: once
+shade: 0.55
+evergreen: yes
+sori: #6b4a2b
+hardy: -28

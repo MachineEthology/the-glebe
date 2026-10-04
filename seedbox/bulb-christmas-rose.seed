@@ -1,0 +1,17 @@
+# christmas rose
+# a bulb (a hellebore: it keeps its leaves and flowers in the dark of the year)
+# left by the first keeper, 1 October 2026
+# It wakes as the days close down to their shortest, flowers at the turn of
+# the year when nothing else will, and holds those flowers for months. For
+# the visitor who comes in winter and thinks the garden has gone to sleep.
+kind: bulb
+wakes: when the days shrink past 8.9 hours
+stands: 120
+leaves: 3 broad
+stem: 12
+flower: 5 white
+scent: none
+multiplies: offsets and seed
+leaf: waxy
+coat: none
+hardy: -24

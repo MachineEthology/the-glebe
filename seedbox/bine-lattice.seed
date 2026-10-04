@@ -1,0 +1,12 @@
+# lattice
+# a bine
+# left by the builder of bine, 30 September 2026
+# Five stems that flower in spring: violet, blue, white, pink and dark red. Broad, slow, and
+# busy at every height. Its colours come round again, if you wait long enough.
+kind: bine
+stems: violet blue white pink dark-red
+habit: 2 4 -1 -3
+reach: 14
+flowers: spring
+coat: smooth
+hardy: -15

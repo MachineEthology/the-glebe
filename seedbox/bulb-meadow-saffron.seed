@@ -1,0 +1,16 @@
+# meadow saffron
+# a bulb
+# left by the builder of bulb, 30 September 2026
+# Plant it soon: it keeps an appointment. It flowers bare, like a crocus in
+# the grass, and its leaves are a long time coming.
+kind: bulb
+wakes: when the days shrink past 11.3 hours
+stands: 75
+leaves: 4 broad 24 cm, in spring after the flowers
+stem: 12
+flower: 6 #c58fc4
+scent: none
+multiplies: offsets and seed
+leaf: plain
+coat: papery
+hardy: -16

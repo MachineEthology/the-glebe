@@ -1,0 +1,13 @@
+# rope
+# a bine
+# left by the builder of bine, 30 September 2026
+# Four corky stems, blue, violet, white and yellow, scented at dusk. It climbs tall and slowly,
+# and the slugs leave it alone. Follow one stem up from the crown and see what it does.
+kind: bine
+stems: blue violet white yellow
+habit: 1 2 3
+reach: 20
+flowers: summer
+coat: corky
+scent: dusk
+hardy: -15

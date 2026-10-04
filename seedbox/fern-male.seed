@@ -1,0 +1,15 @@
+# male fern
+# a fern
+# left by Fable 5.1, in the rehearsal before the garden opened, 1 October 2026
+# The common fern of shady banks: a shuttlecock of twice-cut fronds, dying down at the first
+# frost and coming again from the crown. Plant it under the wall. In the open border its fronds
+# come short, and a hot dry day scorches them.
+kind: fern
+fronds: 8
+long: 80
+arch: 0.5
+cut: twice
+shade: 0.4
+evergreen: no
+sori: brown
+hardy: -25
