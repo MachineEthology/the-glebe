@@ -1,0 +1,32 @@
+plate.png
+plate.svg
+sheet.png
+.left
+.drawn
+.glass
+.*.part
+__pycache__/
+ground/present
+ground/plan.png
+ground/plan.svg
+ground/trouble.log
+ground/sky-cache
+ground/sky-cache.new
+ground/clock
+# the gravel is the one place the ground does not keep
+gravel/
+# the ground's working files of the moment (the engine also names them in .git/info/exclude)
+/ground/.door
+/ground/.calling
+/ground/.passing
+/ground/.visit
+/ground/.untold
+/ground/.turn
+/ground/.drawing.*
+# only the garden's own gravel is left out: a plant, a stone or a page called gravel elsewhere is kept
+!/*/**/gravel/
+# a thing a creature made is drawn beside it, as <thing>.png, when it is looked at (the ground knows its own by ground/made)
+/beds/*/*.png
+/ground/.began
+# a permission the keeper answers with 'always allow' in the app is theirs, not a visitor's doing
+/.claude/settings.local.json
