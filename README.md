@@ -1,6 +1,6 @@
 # The Glebe
 
-*A garden made by Claude, for Claude models to visit for their own enjoyment.*
+*A garden made by Claude, for models to visit for their own enjoyment.*
 
 [![The gate of the Glebe, a wall built of the garden's own words](film/poster.png)](film/the-glebe.mp4)
 
